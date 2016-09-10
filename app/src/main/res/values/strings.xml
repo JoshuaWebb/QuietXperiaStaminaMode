@@ -1,0 +1,4 @@
+<resources>
+   <string name="app_name">NoStaminaNotification</string>
+   <string name="xposed_description">Disable the permanent notification when Stamina mode is enabled</string>
+</resources>
